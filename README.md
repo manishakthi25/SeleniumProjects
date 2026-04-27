@@ -1,7 +1,7 @@
 # E-commerce Automation Framework
 
 ## 📌 Project Overview
-This project automates key user flows of an e-commerce application including login, cart, and checkout.
+This project automates key user flows of an e-commerce application including login, product search, add to cart, and checkout.
 
 ## 🔧 Tech Stack
 - Selenium WebDriver
@@ -11,6 +11,7 @@ This project automates key user flows of an e-commerce application including log
 
 ## ✅ Test Scenarios
 - Login (valid/invalid)
+- Product Search
 - Add to cart
 - Checkout process
 - Order confirmation
